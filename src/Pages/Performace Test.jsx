@@ -2,7 +2,7 @@ import React from 'react'
 
 function Performace_Test() {
   return (
-    <div></div>
+    <div className="flex justify-center items-center">Welcome to Performance Test Page</div>
   )
 }
 
